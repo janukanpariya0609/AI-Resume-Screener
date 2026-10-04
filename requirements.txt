@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+PyMuPDF
+pdfplumber
+python-docx
+scikit-learn
+spacy
+nltk
+Pillow
+wordcloud
+matplotlib
